@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.evy.listener.ListenerTestNG"></listener>
+    </listeners>
+    <test  name="D:/projects/PageFactory" parallel="methods" thread-count="3">
+        <classes>
+            <class name="com.evy.tests.AddTaskTest">
+                <methods>
+                    <include name="tc_addTask"/>
+                </methods>
+            </class>
+            <class name="com.evy.tests.LoginPageTest">
+                <methods>
+                    <include name="tc_loginLogout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

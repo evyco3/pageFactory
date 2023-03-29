@@ -1,0 +1,11 @@
+
+	java:S116	"`Rename this field "project_name_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¸ó·ıÿÿÿÿ8Û¢æ‘ò0
+~	java:S116
+"]Rename this field "task_type_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôËÕôÿÿÿÿÿ8Û¢æ‘ò0
+x	java:S116"\Rename this field "task_name_textbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìº‰8Û¢æ‘ò0
+€	java:S116"_Rename this field "task_status_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÕ©çûÿÿÿÿ8Û¢æ‘ò0
+‚	java:S116"aRename this field "task_priority_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øö‚ëıÿÿÿÿ8Û¢æ‘ò0
+	java:S116"^Rename this field "task_label_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Á¾üÿÿÿÿÿ8Û¢æ‘ò0
+ƒ	java:S116"bRename this field "task_description_iframe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïışáÿÿÿÿÿ8Û¢æ‘ò0
+„	java:S116"cRename this field "task_description_textbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Šÿñúÿÿÿÿ8Û¢æ‘ò0
+ƒ	java:S116"bRename this field "task_createdBy_dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş€¦œøÿÿÿÿ8Û¢æ‘ò0
